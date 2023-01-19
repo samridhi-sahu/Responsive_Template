@@ -1,0 +1,56 @@
+html{
+    font-size: 100%;
+}
+.six{
+    margin: -2.5rem auto;
+   padding-left: 8.125rem;
+}
+.eight{
+    margin: -1.25rem auto;
+   padding-left: 9.375rem;
+}
+.container .item{
+    box-shadow: 0.625rem 0.625rem 0.625rem 0.625rem rgba(0,0,0,0.03125);
+    cursor: pointer;
+    padding: 0.625erm;
+   
+}
+.container{
+    /* display: grid;
+    grid-template-columns: 17.5rem 17.5rem 17.5rem 17.5rem ; */
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: left;
+    align-items: center;
+    margin: 3.125rem;
+    margin-left: 0.35rem;
+
+}
+
+.item{
+    height: 25rem; ;
+    width: 15.625rem;
+    background-color: white;
+    margin-top: 3.125rem;
+    margin-left: 2rem;
+}
+.first{
+    margin-top: 1rem;
+}
+.second{
+    margin-top: 1rem;
+}
+.third{
+    margin-top: 1rem;
+}
+.fourth{
+    margin-top: 1rem;
+}
+.fifth{
+    margin-top: 1rem;
+}
+.seven{
+    margin-top: 3.75rem;
+    margin-left: 4.6875rem;
+}
